@@ -34,3 +34,6 @@ CI/CD的理念对于面向C端的网络服务尤为重要：无论是从满足�
 - 可能短期存在develop分支。develop分支作为功能迭代分支，在一段时间内团队使用develop分支作为主干分支，所有的修改和测试都围绕develop分支进行，使用develop分支部署测试环境。当开发测试完成后，将develop分支整体合并到主干分支，并删除develop分支。
 
 （未完待续...）
+
+![image](https://user-images.githubusercontent.com/12379685/190990697-fb67a620-ed93-4301-a1b7-d7eb154e5783.png)
+
